@@ -4,7 +4,8 @@
 - 📫 How to reach me **clement.dumont@saint-benigne.fr**
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **clement.dumont@saint-benigne.fr**
+**clement.dumont@saint-benigne.fr**
+**github.com/ClementDumont2**
 <p align="left">
 </p>
 
